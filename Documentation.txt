@@ -1,0 +1,14 @@
+
+
+This is the Link from where we can revise this project.
+
+Written:-
+https://dev.to/javascriptacademy/create-a-simple-calculator-using-html-css-and-javascript-4o7k
+
+Video:- 
+https://youtu.be/QS6Y0ezhyCs
+
+Video:-
+https://www.youtube.com/watch?v=yIdA6HvUi_Q
+
+Both video have different way of implementation.
